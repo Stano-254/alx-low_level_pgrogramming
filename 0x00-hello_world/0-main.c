@@ -6,7 +6,5 @@
  */
 int main(void)
 {
-
-	printf("Helloi world!");
 	return (0);
 }
